@@ -1,8 +1,11 @@
 # Raspberry Pi 4 Bitcoin Full Node tutorial
 
+![Raspi4](/raspi4.jpg)
 A noob-friendly step-by-step guide for selecting the hardware, configuring and running a Raspberry Pi, and configuring and running a Bitcoin full node with a focus on setting it up with enhanced privacy. This is meant for people who have limited or no experience with a Linux/UNIX-style operating system. I do my best to explain what each command is doing and why we're doing it.
 
 Each step is outlined in a short YouTube video. This format allows me to easily insert changes when needed and avoid onerous video editing. The master playlist is [here](https://www.youtube.com/playlist?list=PLoF4_lt35vblmnoEnLnb54mzI_zpleU7E).
+
+This project can be completed in a couple of nights or over a weekend.
 
 #### Comments, Questions, Suggestions
 twitter: [@KeithMukai](https://twitter.com/KeithMukai)
@@ -59,7 +62,7 @@ main resource: [James A Chambers blog: Raspberry Pi 4 USB Boot Config Guide for 
 * [Change the default "pi" password](https://youtu.be/-psOHd3sy_w)
 * [Create your own user](https://youtu.be/lmuroScbcKc)
 * [Adding user to sudo group](https://youtu.be/5rNhLXbMJYU)
-* [Update Raspbian](https://youtu.be/ePwC5cTZieQ)
+* [Update Raspbian, pt1](https://youtu.be/ePwC5cTZieQ)
 * [Update Raspbian, pt2](https://youtu.be/_LUqyWzhEhs)
 * [Update the Pi's firmware](https://youtu.be/zG5n6Phb6s8)
     * see James A Chamber's blog: [Raspberry Pi 4 Bootloader Firmware Updating / Recovery Guide](https://jamesachambers.com/raspberry-pi-4-bootloader-firmware-updating-recovery-guide/)
